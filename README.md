@@ -4,5 +4,6 @@
 🚀 Learning new algorithms  
 ✨ C++  
 📌 Poland  
-📊 Codeforces: https://codeforces.com/profile/Zawka 
+📊 Codeforces: https://codeforces.com/profile/Zawka
+
 👉 Find me on Discord: zawka18
